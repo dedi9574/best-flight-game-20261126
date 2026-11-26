@@ -1,8 +1,8 @@
 # Merpati Express
 
-[![make.fun bounty](https://make.fun/badge/best-flight-game-20261126-0057)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![make.fun entries](https://make.fun/badge/best-flight-game-20261126-0057/entries)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![make.fun results](https://make.fun/badge/best-flight-game-20261126-0057/results)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Rank](https://make.fun/badge/best-flight-game-20261126-0057/dedi9574/best-flight-game-20261126/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Reward](https://make.fun/badge/best-flight-game-20261126-0057/dedi9574/best-flight-game-20261126/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
 
 An original 2D canvas chase-view flight game, built for the
 [make.fun "Make the best flight game" bounty](https://make.fun/bounty/best-flight-game-20261126-0057).
